@@ -1,0 +1,23 @@
+human ai interaction
+
+AI is:
+a tool that has been designed and developed to assist in or replace decision-making processes through analysis of data and prediction of the best value for a designed outcome variable
+
+08/29/18 -
+
+Intelligence Augmentation?
+- card catalog in library = intelligence augumentation! user doesn't need to retain all that info
+- Memex machine - memory aid, hyperlinking, 1940s
+
+HCI
+- psychology, cog sci, eng
+- wasn't all that much about AI 
+- how are people going to work with machines?
+
+All about augumentation
+- "help man apply his native sensory, mental, mortor capabilities" - Douglas Engelbart
+- demo mouse for first time, document writing, etc
+
+Knowledge navigator (1987)
+
+AI vs IA (intelligence augumentation)
